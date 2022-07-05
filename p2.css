@@ -1,0 +1,22 @@
+.box{
+	height: 600px;
+	width: 600px;
+	border: 2px solid red;
+	margin: auto;
+	text-align: center;
+}
+.box img{
+	opacity: 0.5;
+}
+.box p{
+	height: 300px;
+	width: 300px;
+	background: radial-gradient(red 50%,green 50%);
+	border: 2px solid red;
+	margin: auto;
+	/*background: linear-gradient(red 50%,green 50%)
+	*/
+
+
+	
+}
